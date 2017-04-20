@@ -1,0 +1,201 @@
+body{
+	margin:0px;
+	padding:10%;
+	background-color:#00BCD4;
+}
+
+p{
+	clear:both;
+}
+
+h1, h2{
+	font-style:bolt;
+}
+
+h1.depan{
+	color:#00BCD4;
+	float:left;
+}
+
+h1.tengah{
+	float:left;
+	color:gray;
+}
+
+h2.depan{
+	float:left;
+	color:gray;
+}
+
+h2.tengah{
+	color:#00BCD4;
+	float:left;
+	#position:relative;
+}
+
+a{
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-right:50px;
+	padding-left:50px;
+	background-color:#00BCD4;
+	text-decoration:none;
+	color:white;
+	clear:both;
+}
+
+#badan{
+	margin:auto;
+	width:100%;
+	min-height:560px;
+	padding:20px;
+	background-color:white;
+	box-shadow: 3px 3px 10px;
+}
+
+#badan2{
+	margin:auto;
+	width:60%;
+	min-height:560px;
+	padding:20px;
+	background-color:white;
+	box-shadow: 3px 3px 10px;
+	position: relative;
+}
+
+.indJudul{
+	width:100%;
+	font-size:36px;
+	text-align:center;
+	margin-left:50px;
+	#background-color:red;
+}
+
+.header{
+	clear:both;
+	height : 100px;
+	margin-left:50px;
+	#background-color : #009688;
+}
+
+.judul{
+	#font-family:Orator Std;
+	font-size:20px;
+}
+
+.kanan{
+	padding:10px;
+	float:left;
+	width:50%;
+	height:500px;
+	text-align:left;
+}
+
+.kiri{
+	padding:10px;
+	float:left;
+	width:45%;
+	height:500px;
+	#background-color:red;
+	text-align:left;
+}
+
+.isi{
+	margin-left:10px;
+	width:90%;
+}
+
+.foto{
+	height:100%;
+	width:100%;
+	background-image:url(foto.png);
+	background-position:center center;
+	background-repeat:no-repeat;
+	clear:both;
+}
+
+.foto2{
+	height:240px;
+	width:200px;
+	margin-left:50px;
+	background-image:url(foto2.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	clear:both;
+	float:left;
+}
+
+.foto3{
+	height:130px;
+	width:90px;
+	margin-bottom:10px;
+	background-image:url(foto3.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	clear:both;
+	float:left;
+}
+
+.texthome{
+	width:50%;
+	float:left;
+	position:bottom left;
+}
+
+.bawahBio{
+	background-color:gray;
+	width:100%;
+	height:30px;
+	color:white;
+	text-align:center;
+	vertical-align: middle;
+	line-height:30px;
+}
+
+/*--------------------------------------------------------------
+gaya untuk resume*/
+
+#badan3{
+	margin:auto;
+	width:70%;
+	height:1366px;
+	padding:20px;
+	background-color:white;
+	box-shadow: 3px 3px 10px;
+	position: relative;
+}
+
+.judul3{
+	margin-left:40px;
+}
+
+.subjudul3{
+	background-color:#00BCD4;
+	font-size:20px;
+	color:white;
+	height:40px;
+	width:100%;
+	text-align:center;
+	vertical-align: middle;
+	line-height:40px;
+}
+
+.datapr{
+	clear:both;
+	text-align:left;
+	width:100%;
+	margin:auto;
+}
+
+li{
+	color:#00BCD4;
+	clear:both;
+	font-size:16px;
+}
+
+.rwt{
+	float:left;
+	width:45%;
+	margin-left:20px;
+	#margin-right:px;
+}
